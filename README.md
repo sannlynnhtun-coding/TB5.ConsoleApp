@@ -1,0 +1,3 @@
+- ADO.NET CRUD
+- Dapper
+- EF Core (Database First)

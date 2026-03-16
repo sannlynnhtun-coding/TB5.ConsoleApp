@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="TB5.ConsoleApp.DapperSample/TB5.ConsoleApp.DapperSample.csproj" Id="53f0939d-2dbb-4c1d-8aee-85f4f5361947" />
   <Project Path="TB5.ConsoleApp/TB5.ConsoleApp.csproj" />
 </Solution>
