@@ -3,5 +3,7 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="TB5.ConsoleApp.DapperSample/TB5.ConsoleApp.DapperSample.csproj" Id="53f0939d-2dbb-4c1d-8aee-85f4f5361947" />
+  <Project Path="TB5.ConsoleApp.Database/TB5.ConsoleApp.Database.csproj" Id="5b666549-c10b-4ac8-b9c5-dec1815179a2" />
+  <Project Path="TB5.ConsoleApp.EFCoreSample/TB5.ConsoleApp.EFCoreSample.csproj" Id="f55a3bd9-d6b7-4690-8b8b-f868ea76b1f5" />
   <Project Path="TB5.ConsoleApp/TB5.ConsoleApp.csproj" />
 </Solution>
